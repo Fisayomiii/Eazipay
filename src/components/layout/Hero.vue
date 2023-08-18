@@ -4,7 +4,7 @@
             <div class="w-full mx-auto lg:max-w-6xl">
                 <div class="max-w-xl mx-auto text-center lg:p-10 lg:text-left">
                     <div>
-                        <p class="text-5xl font-medium tracking-tight text-black sm:text-5xl">
+                        <p class="text-5xl font-medium font-semibold text-black sm:text-5xl">
                             Run your <span class="text-[#11453B]">payroll</span> <br>
                             <span class="text-[#B4A572]"> easily</span> in <span class="text-[#EA4E4B]">seconds</span>
                         </p>
@@ -47,11 +47,11 @@
 </template>
 <style scoped>
 .herobg {
-    background-color: #E5E7EB;
-    background-image: url('../../assets/imgs/gradients.fdc2f6b1.png') ;
+    /* background-color: #E5E7EB; */
+    background-image: url('../../assets/imgs/gradients.fdc2f6b1.png');
     background-position: 50% 60%, 0px 0px;
     background-size: cover, auto;
-    background-repeat: no-repeat, repeat;
+    background-repeat: no-repeat;
 }
 
 img[data-v-4bf142b6] {
@@ -62,4 +62,5 @@ img[data-v-4bf142b6] {
     box-shadow: 0 20px 48px 0 hsla(0, 0%, 66.7%, .29);
     border-radius: 9px;
     height: 60px;
-}</style>
+}
+</style>
