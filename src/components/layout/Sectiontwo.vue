@@ -30,7 +30,6 @@
                             </li>
                             <li>
                                 <div>
-                                    <!-- <img src="../../assets/imgs/Mask group4.png" alt="" className="absolute top-88 left-16 h-4" /> -->
                                     <div
                                         class="flex items-center justify-center w-12 h-12 text-xl text-black font-bold bg-gray-100 rounded-xl">
                                         2
@@ -60,10 +59,10 @@
 
                         </ul>
                     </div>
-                    <div class="order-first block w-full mt-12 aspect-square lg:mt-0 lg:order-first hidden w-0 lg:block">
+                    <!-- <div class="order-first block w-full mt-12 aspect-square lg:mt-0 lg:order-first hidden w-0 lg:block">
                         <img class="object-cover object-center w-96 mx-auto lg:ml-auto" alt="phone"
-                            src="../../assets/imgs/Group 1.png" width="10">
-                    </div>
+                            src="../../assets/imgs/Group1.png" width="10">
+                    </div> -->
                 </div>
             </div>
         </div>

@@ -59,7 +59,7 @@
                         </button>
 
                         <a class="text-3xl ml-3 font-bold leading-none" href="/">
-                            <img src="../assets/illustrations/Logo.png" class="h-8" alt="">
+                            <img src="../../assets/imgs/eazipaylogo.png" class="h-8" alt="">
                         </a>
                     </div>
 

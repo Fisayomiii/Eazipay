@@ -2,9 +2,9 @@
     <div class="grid grid-cols-1 xl:grid-cols-2 lg:grid-cols-2 px-10 xl:px-20 py-10 xl:py-20 mt-20 xl:mt-0 lg:mt-0 md:mt-0">
 
         <div class="xl:px-20 lg:px-10 my-auto xl:py-0 lg:py-0 py-10 xl:text-left lg:text-left text-center">
-            <div class="dots">
-                <img src="../../assets/imgs/greendots.png" class="absolute bottom-[-420%] left-[0%] h-24" alt="">
-            </div>
+            <!-- <div class="dots">
+                <img src="../../assets/imgs/greendots.png" class="absolute bottom-[-600%] left-[0%] h-24" alt="">
+            </div> -->
             
             <h1 class="text-4xl text-[#17493F] font-bold mb-7" style="font-family: mellow;">
                 Get an Exclusive Demo of Eazipay
