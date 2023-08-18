@@ -4,7 +4,7 @@
             class="relative flex flex-col w-full p-5 mx-auto bg-white md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
             <div class="flex flex-row items-center justify-between lg:justify-start">
                 <a class="text-lg tracking-tight text-black uppercase focus:outline-none focus:ring lg:text-2xl" href="/">
-                    <img src="../../assets/imgs/EAZIPAY LOGO NEW 1.png" alt="" class="h-6">
+                    <img src="../../assets/imgs/eazipaylogo.png" alt="" class="h-6">
                 </a>
                 <button class="block md:hidden navbar-burger flex items-center text-[#17493F] p-3"
                     @click="showMenu = !showMenu">

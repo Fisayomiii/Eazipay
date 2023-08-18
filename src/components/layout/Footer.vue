@@ -6,7 +6,7 @@
                 <div class="xl:col-span-1">
                     <a href="/"
                         class="text-lg font-bold tracking-tighter transition duration-500 ease-in-out transform text-black tracking-relaxed lg:pr-8">
-                        <img src="../../assets/imgs/EAZIPAY LOGO NEW 1.png" alt="Eazipay Logo">
+                        <img src="../../assets/imgs/eazipaylogo.png" alt="Eazipay Logo">
                     </a>
                     <p class="w-1/2 mt-2 text-sm text-gray-500">Copyright © 2023 Eazipay.</p>
                     <p class="w-1/2 mt-2 text-sm text-gray-500">All rights reserved</p>
