@@ -11,33 +11,73 @@
                     </p>
                 </div>
 
-                <div
-                    className="grid grid-cols-1 xl:grid-cols-3 lg:grid-cols-3 xl:gap-0 lg:gap-0 gap-5 md:grid-cols-2 xl:px-20 lg:px-20 px-10">
-                    <div className="rounded-[15px] xl:px-10 lg:px-10 px-10 py-10 bg-[#17493F] text-white">
-                        <h3 className="mb-5 text-2xl font-semibold">Tamper-proof Payroll for Life</h3>
-                        <p className="mb-2 text-md">Your staff payroll history is kept in one place forever</p>
-                        <p className="mb-2 text-md">No more excel sheet or manual record</p>
-                        <p className="text-md">Download your payroll history anytime you need it</p>
-                    </div>
-                    <div
-                        className="rounded-[15px] xl:px-10 lg:px-10 px-10 py-10 bg-[#17493F] text-white xl:-ml-40 lg:-ml-40 shadow-xl">
-                        <h3 className="mb-5 text-2xl font-semibold capitalize">all payroll, anytime anywhere</h3>
-                        <p className="mb-2 text-md">Wherever you are Eazipay has got you covered on All your payroll tasks.
-                        </p>
-                        <p className="mb-2 text-md">Whether it is Taxes, Pension insurance, HIXMs, trustfunds, Eazipay
-                            handle all
-                            your compliance in one place and easily, in seconds!</p>
-                    </div>
-                    <div
-                        class="rounded-[15px] xl:px-10 lg:px-10 px-10 py-10 bg-[#17493F] text-white xl:-ml-40 lg:-ml-40 shadow-xl">
-                        <h3 className="mb-5 text-2xl font-semibold capitalize">payroll in seconds</h3>
-                        <p className="mb-2 text-md">never again will you spend more than 2 minutes on payroll</p>
-                        <p className="mb-2 text-md">just click on your staff and bulk-pay them at once</p>
-                        <p className="mb-2 text-md">Payment is done permanentely</p>
-                    </div>
-                </div>
+                <section>
+                    <div class="relative items-center w-full px-5 py-12 mx-auto md:px-12 lg:px-0 max-w-7xl">
 
-                <p class="max-w-xl mt-4 mx-auto text-md text-gray-600"> We are happy to answer your queries. Please, reach us at <span class="text-[#EA4E4B]">hi@myeazipay.com</span> and expect our response shortly after.
+                        <div class="grid grid-cols-1 gap-6 lg:grid-cols-3">
+                            <div
+                                class="inline-block p-4 mx-auto text-left align-bottom transition-all transform bg-[#17493F] sm:align-middle sm:p-8 rounded-2xl">
+                                <div class="flex w-full mb-4">
+                                    <div class="flex-grow">
+                                        <h6 class="text-xl font-bold font-medium text-white">Tamper-proof Payroll for LIfe
+                                        </h6>
+                                    </div>
+
+                                </div>
+                                <div class="w-full mb-4">
+                                    <p class="text-base text-white">
+                                        Your staff payroll history is kept in one place forever.
+
+                                        No more excel sheet or manual records.
+
+                                        Download your payroll history anytime you need it.
+                                    </p>
+                                </div>
+                            </div>
+                            <div
+                                class="inline-block p-4 mx-auto text-left align-bottom transition-all transform bg-[#17493F] sm:align-middle sm:p-8 rounded-2xl">
+                                <div class="flex w-full mb-4">
+                                    <div class="flex-grow ">
+                                        <h6 class="text-xl font-bold font-medium text-white">All Payroll, Anytime Anywhere
+                                        </h6>
+                                    </div>
+
+                                </div>
+                                <div class="w-full mb-4">
+                                    <p class="text-base text-white">
+                                        Wherever you are, Eazipay has got you covered on ALL your Payroll tasks.
+
+                                        Whether it is Taxes, Pension insurances HMOs, trustfunds, Eazipay handle all your
+                                        compliances in one place and easily, in seconds!
+                                    </p>
+                                </div>
+                            </div>
+                            <div
+                                class="inline-block p-4 mx-auto text-left align-bottom transition-all transform bg-[#17493F] sm:align-middle sm:p-8 rounded-2xl">
+                                <div class="flex w-full mb-4">
+                                    <div class="flex-grow">
+                                        <h6 class="text-xl font-bold font-medium text-white">Payroll in Seconds</h6>
+                                    </div>
+
+                                </div>
+                                <div class="w-full mb-4">
+                                    <p class="text-base text-white">
+                                        Never again will you spend more than 2 minutes on payroll.
+
+                                        Just click on your staff and bulk-pay them at once.
+
+                                        Payment is done permanently.
+                                    </p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </section>
+
+                <p class="max-w-xl mx-auto text-sm text-gray-600">
+                    We are happy to answer your queries. Please, reach us at <span
+                        class="text-[#EA4E4B]">hi@myeazipay.com</span> and expect our response shortly after.
                 </p>
 
             </div>
@@ -48,7 +88,7 @@
 <style scoped>
 .herobg {
     position: relative;
-    background-image: url('../../assets/imgs/eazi-wave-green-desktop.591e7153.png');
+    background-image:  url('../../assets/imgs/eazi-wave-green-desktop.591e7153.png');
     background-position: 50% 60%, 0px 0px;
     background-size: cover, auto;
     background-repeat: no-repeat;
@@ -56,4 +96,5 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-}</style>
+}
+</style>
