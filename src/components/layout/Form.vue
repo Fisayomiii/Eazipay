@@ -6,7 +6,7 @@
                 <img src="../../assets/imgs/greendots.png" class="absolute bottom-[-420%] left-[0%] h-24" alt="">
             </div>
             
-            <h1 class="text-4xl text-[#17493F] font-bold mb-7">
+            <h1 class="text-4xl text-[#17493F] font-bold mb-7" style="font-family: mellow;">
                 Get an Exclusive Demo of Eazipay
             </h1>
             <p class="text-md">

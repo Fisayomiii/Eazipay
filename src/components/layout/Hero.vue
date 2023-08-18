@@ -4,11 +4,11 @@
             <div class="w-full mx-auto lg:max-w-6xl">
                 <div class="max-w-xl mx-auto text-center lg:p-10 lg:text-left">
                     <div>
-                        <p class="text-5xl font-medium font-semibold text-black sm:text-5xl">
+                        <p class="text-5xl font-medium font-semibold text-black sm:text-5xl" style="font-family: mellow;">
                             Run your <span class="text-[#11453B]">payroll</span> <br>
                             <span class="text-[#B4A572]"> easily</span> in <span class="text-[#EA4E4B]">seconds</span>
                         </p>
-                        <p class="max-w-xl mt-4 text-lg tracking-tight text-gray-600">
+                        <p class="max-w-xl mt-4 text-lg tracking-tight text-gray-600"  style="font-family: aeonik;">
                             We’ve built an all-inclusive simple solution for individual and businesses to manage staff, pay
                             salaries, bills, and relevant taxes all at once.
                         </p>

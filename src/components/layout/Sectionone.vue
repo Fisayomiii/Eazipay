@@ -3,7 +3,7 @@
         <div class="mb-44 items-center 2 mx-auto max-w-7xl lg:px-16 md:px-12 lg:py-24">
             <div class="justify-center w-full text-center lg:p-10 max-auto">
                 <div class="mt-36 lg:mt-5 justify-center w-full mx-auto">
-                    <h1 class=" text-3xl font-medium font-bold text-[#17493F]">
+                    <h1 class=" text-3xl font-medium font-bold text-[#17493F]" style="font-family: mellow;">
                         For Individuals and Businesses
                     </h1>
                     <p class="max-w-xl mx-auto mt-4 text-lg tracking-tight text-gray-600">

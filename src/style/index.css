@@ -1,8 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&display=swap'); */
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: mellow;
+  src: url(../font/made_mellow/MADEMellowPERSONALUSE-Regular.otf);
+}
+
+@font-face {
+  font-family: aeonik;
+  src: url(../font/aeonik-trial/AeonikTRIAL-Regular.otf);
+}
 
 * {
   box-sizing: border-box;
@@ -11,8 +21,7 @@
 }
 
 body {
-  font-family: 'Bricolage Grotesque', sans-serif;
+  font-family: aeonik;
   text-decoration: none;
   scroll-behavior: smooth;
 }
-

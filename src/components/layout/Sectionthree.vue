@@ -9,7 +9,7 @@
                     <div class="relative items-center gap-12 m-auto lg:inline-flex md:order-first">
                         <div class="max-w-xl text-center lg:text-left">
                             <div>
-                                <p class="text-3xl font-medium font-semibold text-black sm:text-3xl">
+                                <p class="text-3xl font-medium font-semibold text-black sm:text-3xl" style="font-family: mellow;">
                                     Free forever <br> for your <span class="text-[#EA4E4B]"> salary payment</span>
                                 </p>
                                 <p class="max-w-xl mt-4 text-lg tracking-tight text-gray-600">

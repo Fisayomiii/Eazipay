@@ -3,7 +3,7 @@
         <div class="relative items-center w-full px-5 py-24 mx-auto md:px-12 lg:px-16 max-w-7xl">
             <div class="relative flex-col items-start m-auto align-middle">
                 <div class="mb-10 text-center justify-center w-full mx-auto">
-                    <h1 class="text-3xl font-medium font-bold text-[#17493F]">
+                    <h1 class="text-3xl font-medium font-bold text-[#17493F]" style="font-family: mellow;">
                         How Eazipay Works
                     </h1>
                     <p class="max-w-xl mx-auto text-lg tracking-tight text-gray-600">
