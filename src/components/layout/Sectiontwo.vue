@@ -59,10 +59,10 @@
 
                         </ul>
                     </div>
-                    <!-- <div class="order-first block w-full mt-12 aspect-square lg:mt-0 lg:order-first hidden w-0 lg:block">
+                    <div class="order-first block w-full mt-12 aspect-square lg:mt-0 lg:order-first hidden w-0 lg:block">
                         <img class="object-cover object-center w-96 mx-auto lg:ml-auto" alt="phone"
                             src="../../assets/imgs/Group1.png" width="10">
-                    </div> -->
+                    </div>
                 </div>
             </div>
         </div>
